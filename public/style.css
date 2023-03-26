@@ -1,0 +1,19 @@
+body{
+    overflow-x: hidden !important;
+}
+.rounded{
+    width: 14rem;
+}
+.rounded:hover{
+    transform:scale(105%);
+    transition: 0.5s ease;
+}
+
+.rounded img{
+    height: 150px;
+    width: 205px !important;
+}
+.rounded img:hover{
+    transform:scale(107%);
+    transition: 0.5s ease;
+}
